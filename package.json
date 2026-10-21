@@ -13,9 +13,13 @@
   "dependencies": {
     "@red-cup-engineering/json-schema-services-section": "0.1.1"
   },
-  "license": "UNLICENSED",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lenticule-science/drafting-a-term.git"
+  },
+  "funding": {
+    "type": "individual",
+    "url": "https://github.com/561-group/.github/blob/main/TIPS.md"
   }
 }
