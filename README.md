@@ -8,3 +8,10 @@
 <!-- 561-group-standards:badges:end -->
 
 A contractable inference support-node micro-enterprise that drafts a glossary term under a bounded validate-and-repair contract.
+
+## Code
+
+This repository holds section data only. The executable code that used to live here moved to
+[`red-cup-engineering/drafting-a-term`](https://github.com/red-cup-engineering/drafting-a-term) (received 2026-10-24 from
+`lenticule-science/drafting-a-term@2c1e13326122`). That engine reads this data from `SECTION_ROOT` (default: its current working directory),
+so point `SECTION_ROOT` at a checkout of this repository.
